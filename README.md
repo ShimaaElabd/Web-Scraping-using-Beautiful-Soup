@@ -14,7 +14,7 @@ bold text, then give me that text."
 So I'm using Beautiful Soup to extract our desired Audience Score metric and number of audience ratings,
 along with the movie title for each HTML file, then save them in a pandas DataFrame.
 
-For more information about Beautiful Soup I encourage you to check out the following documentation: 
+For more information about Beautiful Soup check out the following documentation: 
 - https://www.crummy.com/software/BeautifulSoup/
 - And this article about Ethics in Web Scraping
   - https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01
